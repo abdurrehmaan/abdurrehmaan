@@ -33,10 +33,8 @@
 
 
 <p align="center">
-    <a href="https://github.com/abdurrehmaan?tab=repositories" title="Profile">
-  <img width="65%" src="https://github-readme-stats.vercel.app/api?username=abdurrehmaan&show_icons=true&locale=en" />
+  <img width="65%" src="https://github-readme-stats.vercel.app/api?username=abdurrehmaan&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
   <img width="27%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdurrehmaan&count_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
-
 </p>
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=abdurrehmaan&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="abdurrehmaan" /></p>
