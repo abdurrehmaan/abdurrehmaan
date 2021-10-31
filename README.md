@@ -12,7 +12,7 @@
 - 💬 Ask me about Anything **Tech** Related
 
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=Rohit19060&label=Profile%20views&color=0e75b6&style=flat" alt="abdurrehmaan"/></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=abdurrehmaan&label=Profile%20views&color=0e75b6&style=flat" alt="abdurrehmaan"/></p>
 <h2 align="center">🌟 Socials 🌟</h2>
 
 
