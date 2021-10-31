@@ -17,8 +17,8 @@
 
 
 <p align="center"><a href="https://github.com/abdurrehmaan?tab=repositories" title="Profile">
-        <img src="https://github-readme-stats.vercel.app/api?username=rohit19060&show_icons=true&locale=en"
+        <img src="https://github-readme-stats.vercel.app/api?username=abdurrehmaan&show_icons=true&locale=en"
             alt="Github Stats" /></a>
 </p>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=abdurrehmaan" alt="abdurrehmaan" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abdurrehmaan&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
