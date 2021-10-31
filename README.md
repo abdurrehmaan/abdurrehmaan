@@ -1,75 +1,24 @@
-<h1 align="center"><project-name></h1>
+<h1 align="center">Hi 👋, I'm Abdur Rehman</h1>
+<h3 align="center">Enthusiast about Tech and want to Learn Everything</h3>
 
-<p align="center"><project-description></p>
+<img align="right"
+    src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif'
+    width="190">
 
-## Links
+- 🦁 Welcome to **[King Technologies](# "Iotics")**
 
-- [Repo](https://github.com/Rohit19060/<project-name> "<project-name> Repo")
+- 🌱 I’m currently learning **React js**
 
-- [Live](<Homepage url> "Live View")
+- 💬 Ask me about Anything **Tech** Related
 
-- [Bugs](https://github.com/Rohit19060/<project-name>/issues "Issues Page")
 
-- [API](<API Link> "API")
+<p align="center"><img src="https://komarev.com/ghpvc/?username=Rohit19060&label=Profile%20views&color=0e75b6&style=flat" alt="abdurrehmaan"/></p>
+<h2 align="center">🌟 Socials 🌟</h2>
 
-## Screenshots
 
-![Home Page](/screenshots/1.png "Home Page")
+<p align="center"><a href="https://github.com/abdurrehmaan?tab=repositories" title="Profile">
+        <img src="https://github-readme-stats.vercel.app/api?username=rohit19060&show_icons=true&locale=en"
+            alt="Github Stats" /></a>
+</p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=abdurrehmaan" alt="abdurrehmaan" /></p>
 
-![](/screenshots/2.png)
-
-![](/screenshots/3.png)
-
-## Available Commands
-
-In the project directory, you can run:
-
-### `npm start" : "react-scripts start"`,
-
-The app is built using `create-react-app` so this command Runs the app in Development mode. Open [http://localhost:3000](http://localhost:3000) to view it in the browser. You also need to run the server file as well to completely run the app. The page will reload if you make edits.
-You will also see any lint errors in the console.
-
-### `"npm run build": "react-scripts build"`,
-
-Builds the app for production to the `build` folder. It correctly bundles React in production mode and optimizes the build for the best performance. The build is minified and the filenames include the hashes. Your app will be ready to deploy!
-
-### `"npm run test": "react-scripts test"`,
-
-Launches the test runner in the interactive watch mode.
-
-### `"npm run dev": "concurrently "nodemon server" "npm run start"`,
-
-For running the server and app together I am using concurrently this helps a lot in the MERN application as it runs both the server (client and server) concurrently. So you can work on them both together.
-
-### `"serve": "node server"`
-
-For running the server file on you can use this command.
-
-### `npm run serve`
-
-## Built With
-
-- JavaScript
-- Node
-- NPM
-- Webpack
-- HTML
-- CSS
-
-## Future Updates
-
-- [ ] Reliable Storage
-
-## Author
-
-**Rohit Jain**
-
-- [Profile](https://github.com/rohit19060 "Rohit jain")
-- [Email](mailto:rohitjain19060@gmail.com?subject=Hi "Hi!")
-- [Website](https://kingtechnologies.in "Welcome")
-
-## 🤝 Support
-
-Contributions, issues, and feature requests are welcome!
-
-Give a ⭐️ if you like this project!
