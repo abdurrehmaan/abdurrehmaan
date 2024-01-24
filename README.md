@@ -12,7 +12,7 @@
   <p align="center">     Overall, Abdur Rehman Khalid has a strong background in MERN stack development, with expertise in Next.js and TypeScript.</p>
 
 
-<img 
+<img  align="center"
     src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif'
     width="190">
 
