@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdur Rehman</h1>
 <h3 align="center">Enthusiast about Tech and want to Learn Everything</h3>
 
-<img align="right"
-    src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif'
-    width="190">
+
 
 <p align="center">
     Abdur Rehman Khalid is a MERN stack developer with experience in JavaScript, TypeScript, React, Next.js, and other related technologies. He has worked on various projects, including the development of IoT-based machine data recorders and learning management systems. Abdur Rehman has demonstrated his skills as a project lead and full-stack developer, where he has developed REST APIs and integrated third-party APIs like Jazz Cash, EasyPaisa, and BigBlueButton. He has also utilized AWS EC2 and RDS for hosting applications and databases.
